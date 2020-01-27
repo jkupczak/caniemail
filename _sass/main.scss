@@ -142,6 +142,7 @@ code {
 		align-items: center;
 		margin: 0 auto;
 		white-space: nowrap;
+		font-family: 'Open Sans', sans-serif;
 	}
 }
 
@@ -254,6 +255,13 @@ code {
 	a {
 		color: inherit;
 	}
+}
+
+// Settings
+.caniemail-settings {
+	padding: 2rem;
+	margin-bottom: 1rem;
+	background-color: #3b9dff;
 }
 
 // Lists
